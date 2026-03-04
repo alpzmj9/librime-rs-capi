@@ -1,5 +1,5 @@
 [package]
-name = "librime-rs"
+name = "rime-rs-capi"
 version = "0.1.0"
 edition = "2024"
 
